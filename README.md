@@ -31,10 +31,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright)
-
-<h3>Пример проекта по по тестированию UI</h3>
-<h5>Стек:</h5>
-<img style="width:30px" src="img/java.svg">
-<img src="img/Selenide.png">
-
-...
