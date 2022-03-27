@@ -30,5 +30,6 @@
 </table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright)
 
+##Пример проекта по по тестированию UI 
