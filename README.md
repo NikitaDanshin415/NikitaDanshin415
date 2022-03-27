@@ -1,7 +1,6 @@
 <h1 align="center">Привет! Меня зовут Никита
-<h3 align="center">Я инженер по автоматизации тестирования</h3>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<h3 align="center">Я инженер по автоматизации тестирования</h3>
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
         <td align="center"><img style="width:150px" src="img/qaGuru.svg"></td>
