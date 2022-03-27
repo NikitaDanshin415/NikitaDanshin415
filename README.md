@@ -2,12 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
  <table width="100%" cellspacing="0" cellpadding="5">
-    <tr>
-        <td width="30%" align="center"><img style="width:150px" src="img/qaGuru.svg"></td>
-        <td >Школа инженеров по автоматизации тестирования QA.GURU.</td>
+    <tr >
+        <td align="center"><img style="width:150px" src="img/qaGuru.svg"></td>
+        <td>Школа инженеров по автоматизации тестирования QA.GURU.</td>
     </tr>
     <tr>
-        <td width="30%" align="center">
+        <td align="center">
             <a href="https://perm.hse.ru/"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
         </td>
         <td>
@@ -16,7 +16,7 @@
         </td>
     </tr>
     <tr>
-        <td width="30%" align="center">
+        <td align="center">
             <a href="https://itcollege59.ru/"><img style="width:150px" src="/img/itCollege59.svg"></a>
         </td>
         <td>
@@ -25,4 +25,7 @@
         </td>
     </tr>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=solarized_dark)
 
