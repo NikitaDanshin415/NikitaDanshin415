@@ -3,7 +3,7 @@
 <h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
-        <td align="center"><img style="width:150px" src="img/qaGuru.svg"></td>
+        <td align="center"><a href="http://qa.guru/"><img style="width:150px" src="img/qaGuru.svg"></a></td>
         <td>Школа инженеров по автоматизации тестирования QA.GURU.</td>
         <td>2022</td>
     </tr>
