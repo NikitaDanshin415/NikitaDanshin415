@@ -18,13 +18,13 @@
 
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
-        <td align="center"><a href="http://qa.guru/" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
         <td>Школа инженеров по автоматизации тестирования QA.GURU.</td>
         <td>2022</td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://perm.hse.ru/" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
+            <a href="https://perm.hse.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
         </td>
         <td>
             НИУ "Высшая школа экономики".
@@ -34,7 +34,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://itcollege59.ru/" rel="noopener noreferrer"><img style="width:150px" src="/img/itCollege59.svg"></a>
+            <a href="https://itcollege59.ru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="/img/itCollege59.svg"></a>
         </td>
         <td>
             Академическая школа информационных технологий.
