@@ -44,7 +44,8 @@
     </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright)
+<img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/>
+
 
 
