@@ -44,8 +44,8 @@
     </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/></a>
 
 
 
