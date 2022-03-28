@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
 
-### Мой стек технологий
+### Cтек технологий
 
 <a href="#"><img src="logo/java.svg" width="30px"/></a>
 <a href="#"><img src="logo/Gradle.svg" width="50px"/></a>
