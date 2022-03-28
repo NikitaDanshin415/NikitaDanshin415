@@ -1,6 +1,19 @@
 <h1 align="center">Привет! Меня зовут Никита
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
+
+###Мой стек технологий
+<a href="#"><img src="logo/java.svg" width="30px"/></a>
+<a href="#"><img src="logo/Gradle.svg" width="50px"/></a>
+<a href="#"><img src="logo/JUnit5.svg" width="50px"/></a>
+<a href="#"><img src="logo/Selenide.svg" width="50px"/></a>
+<a href="#"><img src="logo/Rest-Assured.svg" width="50px"/></a>
+<a href="#"><img src="logo/Allure_Report.svg" width="50px"/></a>
+<a href="#"><img src="logo/Docker.svg" width="50px"/></a>
+<a href="#"><img src="logo/Jenkins.svg" width="50px"/></a>
+<a href="#"><img src="logo/Selenoid.svg" width="50px"/></a>
+
+###Образование
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
         <td align="center"><a href="http://qa.guru/"><img style="width:150px" src="img/qaGuru.svg"></a></td>
@@ -31,3 +44,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright)
+
+
