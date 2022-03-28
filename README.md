@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
 
-###Мой стек технологий
+### Мой стек технологий
 
 <a href="#"><img src="logo/java.svg" width="30px"/></a>
 <a href="#"><img src="logo/Gradle.svg" width="50px"/></a>
@@ -14,7 +14,7 @@
 <a href="#"><img src="logo/Jenkins.svg" width="50px"/></a>
 <a href="#"><img src="logo/Selenoid.svg" width="50px"/></a>
 
-###Образование
+### Образование
 
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
