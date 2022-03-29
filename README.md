@@ -4,7 +4,7 @@
 
 ### Cтек технологий
 
-<a href="#"><img src="logo/java.svg" width="30px"/></a>
+<a href="#"><img alt="java" src="logo/java.svg" width="30px"/></a>
 <a href="#"><img src="logo/Gradle.svg" width="50px"/></a>
 <a href="#"><img src="logo/JUnit5.svg" width="50px"/></a>
 <a href="#"><img src="logo/Selenide.svg" width="50px"/></a>
