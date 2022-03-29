@@ -4,15 +4,15 @@
 
 ### Cтек технологий
 
-<a href="#"><img alt="java" src="logo/java.svg" width="30px"/></a>
-<a href="#"><img src="logo/Gradle.svg" width="50px"/></a>
-<a href="#"><img src="logo/JUnit5.svg" width="50px"/></a>
-<a href="#"><img src="logo/Selenide.svg" width="50px"/></a>
-<a href="#"><img src="logo/Rest-Assured.svg" width="50px"/></a>
-<a href="#"><img src="logo/Allure_Report.svg" width="50px"/></a>
-<a href="#"><img src="logo/Docker.svg" width="50px"/></a>
-<a href="#"><img src="logo/Jenkins.svg" width="50px"/></a>
-<a href="#"><img src="logo/Selenoid.svg" width="50px"/></a>
+<a href="#"><img title="Java" src="logo/java.svg" width="30px"/></a>
+<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
+<a href="#"><img title="JUnit5" src="logo/JUnit5.svg" width="50px"/></a>
+<a href="#"><img title="Selenide"src="logo/Selenide.svg" width="50px"/></a>
+<a href="#"><img title="Rest-Assured"src="logo/Rest-Assured.svg" width="50px"/></a>
+<a href="#"><img title="Allure_Report"src="logo/Allure_Report.svg" width="50px"/></a>
+<a href="#"><img title="Docker"src="logo/Docker.svg" width="50px"/></a>
+<a href="#"><img title="Jenkins"src="logo/Jenkins.svg" width="50px"/></a>
+<a href="#"><img title="Selenoid"src="logo/Selenoid.svg" width="50px"/></a>
 
 ### Образование
 
