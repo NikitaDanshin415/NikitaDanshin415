@@ -48,5 +48,6 @@
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
 
-
-
+<h2>Примеры работ:</h2>
+<h3>Тесты для Pikabu</h3>
+https://github.com/NikitaDanshin415/PikabuTests
