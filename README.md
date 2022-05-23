@@ -28,7 +28,7 @@
         </td>
         <td>
             НИУ "Высшая школа экономики".
-            <br>Программная инженерия.
+         <br><b>Программная инженерия.</b>
         </td>
         <td>2018 - 2022</td>
     </tr>
@@ -38,7 +38,7 @@
         </td>
         <td>
             Академическая школа информационных технологий.
-            <br>Программирование в компьютерных системах.
+         <br><b>Программирование в компьютерных системах.</b>
         </td>
         <td>2015 - 2018</td>
     </tr>
@@ -46,6 +46,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
 
 
 
