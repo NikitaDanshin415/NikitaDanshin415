@@ -51,3 +51,62 @@
 <h2>Примеры работ:</h2>
 <h3>Тесты для Pikabu</h3>
 https://github.com/NikitaDanshin415/PikabuTests
+<h2><a name='projectStack'>:cookie:Стек проекта:</a></h2>
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+</p>
+
+<ul>
+	<li>Java - используется как основной язык для написания тестов</li>
+	<li>Gradle - используется для сборки проекта</li>
+	<li>Junit5 - тестовый фремворк</li>
+	<li>Selenide - библиотека для работы с UI элементами страницы</li>
+	<li>Allure - для формирования отчетов</li>
+	<li>Jenkins - используется для запуска тестов</li>
+	<li>Selenoid - используется для создания контейнеров для прохождения тестов</li>
+	<li>AllureTestOps - система управления тестовыми сценариями</li>
+</ul>
+
+
+
+<h2>:cookie:<a name='projectArchitecture'>Архитектура проекта</a></h2>
+Архитектура проекта состоит из 5 основных модулей
+<ol>
+    <li>
+        <b>OwnerConfig</b> - конфигурационные файлы проекта, в которых может содержаться информация о среде выполнения теста и данные необходимые для работы теста.
+        Данные для конфига берутся из .properties файла в ресурсах проекта, а так же из параметров запущенного теста.
+    </li>
+    <li>
+        <b>BaseTest</b> - базовый класс с конфигурацией от которого наследуются все классы с тестами. Содержит методы BeforeEach и AfterEach.
+    </li>
+    <li>
+        <b>Test</b> - класс описывающий логику работы теста основываясь на бизнесс требованиях.
+    </li>
+    <li>
+        <b>PageObjects</b> - класс для описания страницы приложения. Поля класса объявляются как приватные константы и описывают селекторы для необходимых элементов.
+        Взаимодействие с классом происходит за счет публичных методов класса, использующих ранее описанные селекторы.
+    </li>
+    <li>
+        <b>PageElements</b> - класс для описания логики работы с часто используемыми элементами страницы. (ComboBox, Calendar...)
+    </li>
+</ol>
+
+```mermaid
+flowchart LR
+    classDef class1 fill:#ffe0a1
+    classDef class2 fill:#f3f76a
+    classDef class3 fill:#feffd4
+    
+	A[Test]:::class1 -.Использует.-o B[PageObject]:::class2
+	B -.Использует.-o C[PageElements]:::class3
+	A -.Берет данные из.-x D[OwnerConfig]
+	A --Наследуется от--> E[BaseTest]:::class1
+	E -.Берет данные из.-x D
+```
