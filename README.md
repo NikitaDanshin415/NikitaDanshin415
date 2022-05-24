@@ -3,17 +3,17 @@
 <h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
 
 ### Cтек технологий
-
-<a href="#"><img title="Java" src="logo/java.svg" width="30px"/></a>
-<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
-<a href="#"><img title="JUnit5" src="logo/JUnit5.svg" width="50px"/></a>
-<a href="#"><img title="Selenide" src="logo/Selenide.svg" width="50px"/></a>
-<a href="#"><img title="Rest-Assured" src="logo/Rest-Assured.svg" width="50px"/></a>
-<a href="#"><img title="Allure_Report" src="logo/Allure_Report.svg" width="50px"/></a>
-<a href="#"><img title="Docker" src="logo/Docker.svg" width="50px"/></a>
-<a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
-<a href="#"><img title="Selenoid" src="logo/Selenoid.svg" width="50px"/></a>
-
+<p align="center">
+	<a href="#"><img title="Java" src="logo/java.svg" width="30px"/></a>
+	<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
+	<a href="#"><img title="JUnit5" src="logo/JUnit5.svg" width="50px"/></a>
+	<a href="#"><img title="Selenide" src="logo/Selenide.svg" width="50px"/></a>
+	<a href="#"><img title="Rest-Assured" src="logo/Rest-Assured.svg" width="50px"/></a>
+	<a href="#"><img title="Allure_Report" src="logo/Allure_Report.svg" width="50px"/></a>
+	<a href="#"><img title="Docker" src="logo/Docker.svg" width="50px"/></a>
+	<a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
+	<a href="#"><img title="Selenoid" src="logo/Selenoid.svg" width="50px"/></a>
+</p>
 ### Образование
 
  <table width="100%" cellspacing="0" cellpadding="5">
