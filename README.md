@@ -14,6 +14,7 @@
 	<a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
 	<a href="#"><img title="Selenoid" src="logo/Selenoid.svg" width="50px"/></a>
 </p>
+
 ### Образование
 
  <table width="100%" cellspacing="0" cellpadding="5">
