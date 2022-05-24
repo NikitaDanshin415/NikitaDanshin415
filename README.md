@@ -50,6 +50,7 @@
 
 <h2>Примеры работ:</h2>
 <h3>Тесты для Pikabu</h3>
+<p>В проекте релаизованы тесты для проверки клиентской части приложения</p>
 https://github.com/NikitaDanshin415/PikabuTests
 <h3><a name='projectStack'>:cookie:Стек проекта:</a></h3>
 <p align="center">
@@ -62,7 +63,7 @@ https://github.com/NikitaDanshin415/PikabuTests
     <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
     <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
-<p>Тесты для проверки клиентской части приложения</p>
+
 <h4>Особенности проекта</h4>
 <ul>
 	<li>Использование паттерна PageObject</li>
