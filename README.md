@@ -62,51 +62,13 @@ https://github.com/NikitaDanshin415/PikabuTests
     <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
     <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
-
+<h4>Особенности проекта</h4>
 <ul>
-	<li>Java - используется как основной язык для написания тестов</li>
-	<li>Gradle - используется для сборки проекта</li>
-	<li>Junit5 - тестовый фремворк</li>
-	<li>Selenide - библиотека для работы с UI элементами страницы</li>
-	<li>Allure - для формирования отчетов</li>
-	<li>Jenkins - используется для запуска тестов</li>
-	<li>Selenoid - используется для создания контейнеров для прохождения тестов</li>
-	<li>AllureTestOps - система управления тестовыми сценариями</li>
+	<li>Использование паттерна PageObject</li>
+	<li>Разделение тестов на группы для смок и регрессионного тестирования</li>
+	<li>Owner для конфигурации проекта</li>
+	<li>Уведомления о прохождении тестов в телеграм</li>
+	<li>Интеграция с Allure Test Ops</li>
+	<li>Интеграция с Jira</li>
 </ul>
 
-
-
-<h2>:cookie:<a name='projectArchitecture'>Архитектура проекта</a></h2>
-Архитектура проекта состоит из 5 основных модулей
-<ol>
-    <li>
-        <b>OwnerConfig</b> - конфигурационные файлы проекта, в которых может содержаться информация о среде выполнения теста и данные необходимые для работы теста.
-        Данные для конфига берутся из .properties файла в ресурсах проекта, а так же из параметров запущенного теста.
-    </li>
-    <li>
-        <b>BaseTest</b> - базовый класс с конфигурацией от которого наследуются все классы с тестами. Содержит методы BeforeEach и AfterEach.
-    </li>
-    <li>
-        <b>Test</b> - класс описывающий логику работы теста основываясь на бизнесс требованиях.
-    </li>
-    <li>
-        <b>PageObjects</b> - класс для описания страницы приложения. Поля класса объявляются как приватные константы и описывают селекторы для необходимых элементов.
-        Взаимодействие с классом происходит за счет публичных методов класса, использующих ранее описанные селекторы.
-    </li>
-    <li>
-        <b>PageElements</b> - класс для описания логики работы с часто используемыми элементами страницы. (ComboBox, Calendar...)
-    </li>
-</ol>
-
-```mermaid
-flowchart LR
-    classDef class1 fill:#ffe0a1
-    classDef class2 fill:#f3f76a
-    classDef class3 fill:#feffd4
-    
-	A[Test]:::class1 -.Использует.-o B[PageObject]:::class2
-	B -.Использует.-o C[PageElements]:::class3
-	A -.Берет данные из.-x D[OwnerConfig]
-	A --Наследуется от--> E[BaseTest]:::class1
-	E -.Берет данные из.-x D
-```
