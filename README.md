@@ -64,7 +64,7 @@ https://github.com/NikitaDanshin415/PikabuTests
     <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
-<h4>Особенности проекта</h4>
+<h4>:cookie:Особенности проекта</h4>
 <ul>
 	<li>Использование паттерна PageObject</li>
 	<li>Разделение тестов на группы для смок и регрессионного тестирования</li>
