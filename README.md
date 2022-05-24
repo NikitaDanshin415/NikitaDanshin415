@@ -16,7 +16,7 @@
 </p>
 
 ### Образование
-<p align="center">
+
  <table width="100%" cellspacing="0" cellpadding="5">
     <tr >
         <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
@@ -44,7 +44,7 @@
         <td>2015 - 2018</td>
     </tr>
 </table>
-</p>
+
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
