@@ -50,7 +50,7 @@
  <table style="width=100%" cellspacing="0" cellpadding="5">
 	<tr>
         <td align="center">
-            <a href="https://ifellow.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
+            <a href="https://ifellow.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/ifellow-logo.png"></a>
         </td>
         <td>
             IFellow
@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://rtmis.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
+            <a href="https://rtmis.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/rtmisLogo.png"></a>
         </td>
         <td>
             РТ МИС
