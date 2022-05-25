@@ -53,12 +53,38 @@
 <h3>Тесты для Pikabu</h3>
 <p>В проекте релаизованы тесты для проверки клиентской части приложения</p>
 https://github.com/NikitaDanshin415/PikabuTests
-<h3><a name='projectStack'>:cookie:Стек проекта:</a></h3>
+<h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
     <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
     <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+</p>
+
+<h4>:cookie:Особенности проекта</h4>
+<ul>
+	<li>Использование паттерна PageObject</li>
+	<li>Разделение тестов на группы для смок и регрессионного тестирования</li>
+	<li>Owner для конфигурации проекта</li>
+	<li>Уведомления о прохождении тестов в телеграм</li>
+	<li>Интеграция с Allure Test Ops</li>
+	<li>Интеграция с Jira</li>
+</ul>
+
+<h3>Тесты для https://demoqa.com/books</h3>
+<p>В проекте релаизованы API и UI тесты</p>
+https://github.com/NikitaDanshin415/PikabuTests
+<h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
+	<a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/RestAssured.svg" width="50px"/></a>
     <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
     <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
     <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
