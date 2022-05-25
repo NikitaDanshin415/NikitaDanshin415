@@ -66,9 +66,6 @@
             РТ МИС
          <br><b>Ведущий инженер по автоматизации тестирования.</b>
         </td>
-	 <td> Java, Selenide, RestAssured, Maven ,Jenkins, Selenoid, Allure
-		 </td
-	    
         <td>2018 - 2022</td>
     </tr>
 </table>
