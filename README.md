@@ -45,6 +45,31 @@
     </tr>
 </table>
 
+### Работа
+
+ <table style="width=100%" cellspacing="0" cellpadding="5">
+	<tr>
+        <td align="center">
+            <a href="https://ifellow.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
+        </td>
+        <td>
+            IFellow
+         <br><b>Ведущий инженер по автоматизации тестирования.</b>
+        </td>
+        <td>2018 - 2022</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://rtmis.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/01_Abbreviation_ENG_PANTONE.svg"></a>
+        </td>
+        <td>
+            РТ МИС
+         <br><b>Ведущий инженер по автоматизации тестирования.</b>
+        </td>
+        <td>2018 - 2022</td>
+    </tr>
+</table>
+
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NikitaDanshin415"/></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
