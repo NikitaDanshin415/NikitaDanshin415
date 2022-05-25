@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Никита
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я работаю инженером по автоматизации тестирования с 2018 года</h3>
+<h3 align="center">Я работаю инженером по автоматизации тестирования</h3>
 
 ### Cтек технологий
 <p align="center">
