@@ -75,9 +75,11 @@ https://github.com/NikitaDanshin415/PikabuTests
 	<li>Интеграция с Jira</li>
 </ul>
 
+---
+
 <h3>Тесты для https://demoqa.com/books</h3>
 <p>В проекте релаизованы API и UI тесты</p>
-https://github.com/NikitaDanshin415/PikabuTests
+https://github.com/NikitaDanshin415/BookStore
 <h4><a name='projectStack'>📖:Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
