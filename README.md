@@ -79,6 +79,10 @@
 <p>В проекте релаизованы тесты для проверки клиентской части приложения</p>
 https://github.com/NikitaDanshin415/PikabuTests
 <h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
+
+<p align="center">
+    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_1/pikabu.gif" />
+</p>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
