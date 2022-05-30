@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я работаю инженером по автоматизации тестирования</h3>
 
-### Cтек технологий
+<h3 align="center">Мой стек технологий</h3>
 <p align="center">
 	<a href="#"><img title="Java" src="logo/java.svg" width="30px"/></a>
 	<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
@@ -78,7 +78,13 @@
 <h3>Тесты для Pikabu</h3>
 <p>В проекте релаизованы тесты для проверки клиентской части приложения</p>
 https://github.com/NikitaDanshin415/PikabuTests
+
+<p align="center">
+    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_1/pikabu.gif" />
+</p>
+
 <h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
+
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
@@ -92,12 +98,12 @@ https://github.com/NikitaDanshin415/PikabuTests
 
 <h4>:cookie:Особенности проекта</h4>
 <ul>
-	<li>Использование паттерна PageObject</li>
-	<li>Разделение тестов на группы для смок и регрессионного тестирования</li>
-	<li>Owner для конфигурации проекта</li>
-	<li>Уведомления о прохождении тестов в телеграм</li>
-	<li>Интеграция с Allure Test Ops</li>
-	<li>Интеграция с Jira</li>
+	<li>:heavy_check_mark:Использование паттерна PageObject</li>
+	<li>:heavy_check_mark:Разделение тестов на группы для смок и регрессионного тестирования</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
+	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
+	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
+	<li>:heavy_check_mark:Интеграция с Jira</li>
 </ul>
 
 ---
@@ -111,7 +117,7 @@ https://github.com/NikitaDanshin415/BookStore
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
     <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
     <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
-	<a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
     <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
     <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
     <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
@@ -120,10 +126,44 @@ https://github.com/NikitaDanshin415/BookStore
 
 <h4>:📖Особенности проекта</h4>
 <ul>
-	<li>Совмещение UI и API проверок в одном тесте</li>
-	<li>Использование паттерна PageObject</li>
-	<li>Owner для конфигурации проекта</li>
-	<li>Кастомные отчеты в Allure для API запросов</li>
-	<li>Авторизация через АПИ</li>
+	<li>:heavy_check_mark:Совмещение UI и API проверок в одном тесте</li>
+	<li>:heavy_check_mark:Использование паттерна PageObject</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
+	<li>:heavy_check_mark:Кастомные отчеты в Allure для API запросов</li>
+	<li>:heavy_check_mark:Авторизация через АПИ</li>
+	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
+	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
+	<li>:heavy_check_mark:Интеграция с Jira</li>
 </ul>
+
+---
+
+<h3>Тесты для приложения калькулятор</h3>
+<p>В проекте релаизованы UI тесты для мобильного устройства</p>
+https://github.com/NikitaDanshin415/CalculatorMobile
+<h4><a name='projectStack'>:iphone::Стек проекта:</a></h4>
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" width="50px"/></a>
+</p>
+
+<h4>::iphone:Особенности проекта</h4>
+<ul>
+	<li>:heavy_check_mark:Использование библиотеки Selenide-Appium</li>
+	<li>:heavy_check_mark:Параметризованные тесты</li>
+	<li>:heavy_check_mark:Запуск тестов с помощью Browserstack</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
+	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
+	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
+	<li>:heavy_check_mark:Интеграция с Jira</li>
+</ul>
+
 
