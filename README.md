@@ -132,7 +132,7 @@ https://github.com/NikitaDanshin415/BookStore
 <h3>Тесты для приложения калькулятор</h3>
 <p>В проекте релаизованы UI тесты для мобильного устройства</p>
 https://github.com/NikitaDanshin415/CalculatorMobile
-<h4><a name='projectStack'>📖:Стек проекта:</a></h4>
+<h4><a name='projectStack'>:iphone::Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
@@ -146,7 +146,7 @@ https://github.com/NikitaDanshin415/CalculatorMobile
     <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" width="50px"/></a>
 </p>
 
-<h4>:📖Особенности проекта</h4>
+<h4>::iphone:Особенности проекта</h4>
 <ul>
 	<li>Использование библиотеки Selenide-Appium</li>
 	<li>Использование паттерна PageObject</li>
