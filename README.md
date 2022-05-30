@@ -111,7 +111,7 @@ https://github.com/NikitaDanshin415/BookStore
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
     <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
     <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
-	<a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
     <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
     <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
     <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
@@ -126,4 +126,32 @@ https://github.com/NikitaDanshin415/BookStore
 	<li>Кастомные отчеты в Allure для API запросов</li>
 	<li>Авторизация через АПИ</li>
 </ul>
+
+---
+
+<h3>Тесты для приложения калькулятор</h3>
+<p>В проекте релаизованы UI тесты для мобильного устройства</p>
+https://github.com/NikitaDanshin415/CalculatorMobile
+<h4><a name='projectStack'>📖:Стек проекта:</a></h4>
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" width="50px"/></a>
+</p>
+
+<h4>:📖Особенности проекта</h4>
+<ul>
+	<li>Использование библиотеки Selenide-Appium</li>
+	<li>Использование паттерна PageObject</li>
+	<li>Параметризованные тесты</li>
+	<li>Запуск тестов с помощью Browserstack</li>
+</ul>
+
 
