@@ -79,8 +79,7 @@
 
 <h2>Примеры работ:</h2>
 <h3>Тесты для Pikabu</h3>
-<p>В [проекте](https://github.com/NikitaDanshin415/PikabuTests) релаизованы тесты для проверки клиентской части приложения</p>
-
+<p>В <a href='https://github.com/NikitaDanshin415/PikabuTests'>проекте</a> релаизованы тесты для проверки клиентской части приложения</p>
 
 <p align="center">
     <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_1/pikabu.gif" />
@@ -112,7 +111,7 @@
 ---
 
 <h3>Тесты для https://demoqa.com/books</h3>
-<p>В [проекте](https://github.com/NikitaDanshin415/BookStore) релаизованы API и UI тесты</p>
+<p>В <a href='https://github.com/NikitaDanshin415/BookStore'>проекте</a> релаизованы API и UI тесты</p>
 
 <p align="center">
     <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_2/33680cf1661777f81c577c96b7182861.gif" />
@@ -146,8 +145,7 @@
 ---
 
 <h3>Тесты для приложения калькулятор</h3>
-<p>В [проекте](https://github.com/NikitaDanshin415/CalculatorMobile) релаизованы UI тесты для мобильного устройства</p>
-
+<p>В <a href='https://github.com/NikitaDanshin415/CalculatorMobile'>проекте</a> релаизованы  UI тесты для мобильного устройства</p>
 
 <p align="center">
     <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_3/848868182d66d878701aee934ac4072af6abec91.gif" />
