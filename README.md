@@ -8,13 +8,13 @@
 	<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
 	<a href="#"><img title="JUnit5" src="logo/JUnit5.svg" width="50px"/></a>
 	<a href="#"><img title="Selenide" src="logo/Selenide.svg" width="50px"/></a>
-	<a href="#"><img title="Appium" src="Appium.svg" width="50px"/></a>
+	<a href="#"><img title="Appium" src="logo/Appium.svg" width="50px"/></a>
 	<a href="#"><img title="Rest-Assured" src="logo/Rest-Assured.svg" width="50px"/></a>
 	<a href="#"><img title="Allure_Report" src="logo/Allure_Report.svg" width="50px"/></a>
 	<a href="#"><img title="Docker" src="logo/Docker.svg" width="50px"/></a>
 	<a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
 	<a href="#"><img title="Selenoid" src="logo/Selenoid.svg" width="50px"/></a>
-	<a href="#"><img title="Browserstack Ops" src="Browserstack.svg" width="50px"/></a>
+	<a href="#"><img title="Browserstack" src="logo/Browserstack.svg" width="50px"/></a>
 	<a href="#"><img title="Allure Test Ops" src="logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
