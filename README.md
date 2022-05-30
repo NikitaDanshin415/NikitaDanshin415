@@ -151,8 +151,8 @@ https://github.com/NikitaDanshin415/CalculatorMobile
     <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
     <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
     <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Browserstack.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Appium.svg" width="50px"/></a>
 </p>
 
 <h4>::iphone:Особенности проекта</h4>
