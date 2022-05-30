@@ -125,6 +125,9 @@ https://github.com/NikitaDanshin415/BookStore
 	<li>Owner для конфигурации проекта</li>
 	<li>Кастомные отчеты в Allure для API запросов</li>
 	<li>Авторизация через АПИ</li>
+	<li>Уведомления о прохождении тестов в телеграм</li>
+	<li>Интеграция с Allure Test Ops</li>
+	<li>Интеграция с Jira</li>
 </ul>
 
 ---
@@ -149,9 +152,12 @@ https://github.com/NikitaDanshin415/CalculatorMobile
 <h4>::iphone:Особенности проекта</h4>
 <ul>
 	<li>Использование библиотеки Selenide-Appium</li>
-	<li>Использование паттерна PageObject</li>
 	<li>Параметризованные тесты</li>
 	<li>Запуск тестов с помощью Browserstack</li>
+	<li>Owner для конфигурации проекта</li>
+	<li>Уведомления о прохождении тестов в телеграм</li>
+	<li>Интеграция с Allure Test Ops</li>
+	<li>Интеграция с Jira</li>
 </ul>
 
 
