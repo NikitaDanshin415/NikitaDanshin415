@@ -146,6 +146,11 @@ https://github.com/NikitaDanshin415/BookStore
 <h3>Тесты для приложения калькулятор</h3>
 <p>В проекте релаизованы UI тесты для мобильного устройства</p>
 https://github.com/NikitaDanshin415/CalculatorMobile
+
+<p align="center">
+    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_3/848868182d66d878701aee934ac4072af6abec91.gif" />
+</p>
+
 <h4><a name='projectStack'>:iphone::Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
