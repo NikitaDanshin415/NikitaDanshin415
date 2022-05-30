@@ -111,6 +111,11 @@ https://github.com/NikitaDanshin415/PikabuTests
 <h3>Тесты для https://demoqa.com/books</h3>
 <p>В проекте релаизованы API и UI тесты</p>
 https://github.com/NikitaDanshin415/BookStore
+
+<p align="center">
+    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_2/33680cf1661777f81c577c96b7182861.gif" />
+</p>
+
 <h4><a name='projectStack'>📖:Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
