@@ -151,7 +151,7 @@
     <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_3/848868182d66d878701aee934ac4072af6abec91.gif" />
 </p>
 
-<h4><a name='projectStack'>:iphone::Стек проекта:</a></h4>
+<h4><a name='projectStack'>:iphone:Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
@@ -165,7 +165,7 @@
     <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Appium.svg" width="50px"/></a>
 </p>
 
-<h4>::iphone:Особенности проекта</h4>
+<h4>:iphone:Особенности проекта</h4>
 <ul>
 	<li>:heavy_check_mark:Использование библиотеки Selenide-Appium</li>
 	<li>:heavy_check_mark:Параметризованные тесты</li>
