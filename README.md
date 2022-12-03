@@ -56,7 +56,7 @@
             <a href="https://ifellow.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/ifellow-logo.png"></a>
         </td>
         <td>
-            IFellow
+            IFellow (outstaff "НСПК")
          <br><b>Инженер по автоматизации тестирования.</b>
         </td>
         <td>2022 - ...</td>
