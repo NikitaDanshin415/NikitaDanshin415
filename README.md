@@ -21,9 +21,14 @@
 ### Образование
 
  <table style="width=100%" cellspacing="0" cellpadding="5">
+	 <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
+        <td>Школа инженеров по автоматизации тестирования Java Advanced QA.GURU.</td>
+        <td>2022</td>
+    </tr>
     <tr >
         <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
-        <td>Школа инженеров по автоматизации тестирования QA.GURU.</td>
+        <td>Школа инженеров по автоматизации тестирования Java QA.GURU.</td>
         <td>2022</td>
     </tr>
     <tr>
