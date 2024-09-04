@@ -22,12 +22,12 @@
 
  <table style="width=100%" cellspacing="0" cellpadding="5">
 	 <tr >
-        <td align="center"><a href="https://qa.guru/java-advanced" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
+        <td align="center"><a href="https://qa.guru/java_advanced" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
         <td>Школа инженеров по автоматизации тестирования Java Advanced QA.GURU.</td>
         <td>2023</td>
     </tr>
     <tr >
-        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
+        <td align="center"><a href="https://qa.guru/java" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="img/qaGuru.svg"></a></td>
         <td>Школа инженеров по автоматизации тестирования Java QA.GURU.</td>
         <td>2022</td>
     </tr>
@@ -58,10 +58,10 @@
  <table style="width=100%" cellspacing="0" cellpadding="5">
 	<tr>
         <td align="center">
-            <a href="https://ifellow.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/ifellow-logo.png"></a>
+            <a href="https://www.nspk.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="/img/mir.svg"></a>
         </td>
         <td>
-            IFellow (outstaff "НСПК")
+            НСПК(Mir.PlatForm)
          <br><b>Инженер по автоматизации тестирования.</b>
         </td>
         <td>2022 - ...</td>
