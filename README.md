@@ -9,17 +9,17 @@
 
 ### Мой стек технологий
 <p align="center">
-<img alt="Java" height="100" src="logo/java.svg" width="100"/> 
-<img alt="Spring" height="100" src="logo/spring.svg" width="100"/> 
-<img alt="Gradle" height="100" src="logo/Gradle.svg" width="100"/>
-<img alt="JUnit5" height="100" src="logo/JUnit5.svg" width="100"/> 
-<img alt="Selenide" height="100" src="logo/Selenide.svg" width="100"/>
-<img alt="Rest-Assured" height="100" src="logo/Rest-Assured.svg" width="100"/> 
-<img alt="Allure Report" height="100" src="logo/Allure_Report.svg" width="100"/>  
-<img alt="Docker" height="100" src="logo/Docker.svg" width="100"/>
-<img alt="Jenkins" height="100" src="logo/Jenkins.svg" width="100"/>
-<img alt="Selenoid" height="100" src="logo/Selenoid.svg" width="100"/>
-<img alt="Allure Test Ops" height="100" src="logo/AllureTestOps.svg" width="100"/>
+<img alt="Java" height="70" src="logo/java.svg" width="70"/> 
+<img alt="Spring" height="70" src="logo/spring.svg" width="70"/> 
+<img alt="Gradle" height="70" src="logo/Gradle.svg" width="70"/>
+<img alt="JUnit5" height="70" src="logo/JUnit5.svg" width="70"/> 
+<img alt="Selenide" height="70" src="logo/Selenide.svg" width="70"/>
+<img alt="Rest-Assured" height="70" src="logo/Rest-Assured.svg" width="70"/> 
+<img alt="Allure Report" height="70" src="logo/Allure_Report.svg" width="70"/>  
+<img alt="Docker" height="70" src="logo/Docker.svg" width="70"/>
+<img alt="Jenkins" height="70" src="logo/Jenkins.svg" width="70"/>
+<img alt="Selenoid" height="70" src="logo/Selenoid.svg" width="70"/>
+<img alt="Allure Test Ops" height="70" src="logo/AllureTestOps.svg" width="70"/>
 </p>
 
 
