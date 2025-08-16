@@ -1,25 +1,27 @@
 # Привет! Меня зовут Никита
 
-![Hi](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+<p align="center">
 
-### Я работаю инженером по автоматизации тестирования
+![Hi](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+</p>
+
+### Я Backend-разработчик с опытом в автоматизации тестирования
 
 ### Мой стек технологий
+<p align="center">
+<img alt="Java" height="100" src="logo/java.svg" width="100"/> 
+<img alt="Spring" height="100" src="logo/spring.svg" width="100"/> 
+<img alt="Gradle" height="100" src="logo/Gradle.svg" width="100"/>
+<img alt="JUnit5" height="100" src="logo/JUnit5.svg" width="100"/> 
+<img alt="Selenide" height="100" src="logo/Selenide.svg" width="100"/>
+<img alt="Rest-Assured" height="100" src="logo/Rest-Assured.svg" width="100"/> 
+<img alt="Allure Report" height="100" src="logo/Allure_Report.svg" width="100"/>  
+<img alt="Docker" height="100" src="logo/Docker.svg" width="100"/>
+<img alt="Jenkins" height="100" src="logo/Jenkins.svg" width="100"/>
+<img alt="Selenoid" height="100" src="logo/Selenoid.svg" width="100"/>
+<img alt="Allure Test Ops" height="100" src="logo/AllureTestOps.svg" width="100"/>
+</p>
 
-[![Java](logo/java.svg)](#)  
-[![Gradle](logo/Gradle.svg)](#)  
-[![JUnit5](logo/JUnit5.svg)](#)  
-[![Selenide](logo/Selenide.svg)](#)  
-[![Appium](logo/Appium.svg)](#)  
-[![Rest-Assured](logo/Rest-Assured.svg)](#)  
-[![Allure Report](logo/Allure_Report.svg)](#)  
-[![Docker](logo/Docker.svg)](#)  
-[![Jenkins](logo/Jenkins.svg)](#)  
-[![Selenoid](logo/Selenoid.svg)](#)  
-[![Browserstack](logo/Browserstack.svg)](#)  
-[![Allure Test Ops](logo/AllureTestOps.svg)](#)
-
----
 
 ### Образование
 
@@ -33,11 +35,11 @@
 
 ### Работа
 
-| Логотип                                            | Компания                                                                  | Период      |
-|----------------------------------------------------|---------------------------------------------------------------------------|-------------|
-| [![НСПК](img/mir.svg)](https://www.nspk.ru/)       | НСПК (Mir.PlatForm) <br> **Backend разработчик**                          | 2024 - ...  |
-| [![НСПК](img/mir.svg)](https://www.nspk.ru/)       | НСПК (Mir.PlatForm) <br>**Ведущий инженер по автоматизации тестирования** | 2018 - 2022 |
-| [![РТ МИС](/img/rtmisLogo.png)](https://rtmis.ru/) | РТ МИС <br>Ведущий инженер по автоматизации тестирования                  | 2018 - 2022 |
+| Логотип                                                                                   | Компания                                                                  | Период      |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------|
+| [<img alt="НСПК" height="80" src="img/mir.svg" width="100"/>](https://www.nspk.ru/)       | НСПК (Mir.PlatForm) <br> **Backend разработчик**                          | 2024 - ...  |
+| [<img alt="НСПК" height="80" src="img/mir.svg" width="100"/>](https://www.nspk.ru/)       | НСПК (Mir.PlatForm) <br>**Ведущий инженер по автоматизации тестирования** | 2018 - 2022 |
+| [<img alt="РТ МИС" height="80" src="/img/rtmisLogo.png" width="100"/>](https://rtmis.ru/) | РТ МИС <br>Ведущий инженер по автоматизации тестирования                  | 2018 - 2022 |
 
 ---
 
@@ -55,16 +57,18 @@
 
 ![BookStore](https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_2/33680cf1661777f81c577c96b7182861.gif)
 
-**Стек проекта:**  
-[![Java](logo/java.svg)](#)  
-[![Gradle](logo/Gradle.svg)](#)  
-[![JUnit5](logo/JUnit5.svg)](#)  
-[![Selenide](logo/Selenide.svg)](#)  
-[![Rest-Assured](logo/Rest-Assured.svg)](#)  
-[![Allure Report](logo/Allure_Report.svg)](#)  
-[![Jenkins](logo/Jenkins.svg)](#)  
-[![Selenoid](logo/Selenoid.svg)](#)  
-[![Allure Test Ops](logo/AllureTestOps.svg)](#)
+**Стек проекта:**
+<p align="center">
+<img alt="Java" height="80" src="logo/java.svg" width="80"/>  
+<img alt="Gradle" height="80" src="logo/Gradle.svg" width="80"/>  
+<img alt="JUnit5" height="80" src="logo/JUnit5.svg" width="80"/>  
+<img alt="Selenide" height="80" src="logo/Selenide.svg" width="80"/>
+<img alt="Rest-Assured" height="80" src="logo/Rest-Assured.svg" width="80"/> 
+<img alt="Allure Report" height="80" src="logo/Allure_Report.svg" width="80"/>  
+<img alt="Jenkins" height="80" src="logo/Jenkins.svg" width="80"/>
+<img alt="Selenoid" height="80" src="logo/Selenoid.svg" width="80"/>  
+<img alt="Allure Test Ops" height="80" src="logo/AllureTestOps.svg" width="80"/>
+</p>
 
 **Особенности проекта:**
 
