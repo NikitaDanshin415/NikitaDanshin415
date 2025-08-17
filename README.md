@@ -43,12 +43,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDanshin415)  
-![GitHub languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaDanshin415&theme=nord_bright)  
-<img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
-
----
-
 ## Примеры работ
 
 ### Тесты для [BookStore](https://demoqa.com/books)
@@ -90,3 +84,5 @@
 ### Тесты для приложения калькулятор
 
 В [проекте](https://github.com/NikitaDanshin415/CalculatorMobile) реализованы UI тесты для мобильного устройства.
+
+<img align="right" src="https://komarev.com/ghpvc/?username=NikitaDanshin415&color=003140">
